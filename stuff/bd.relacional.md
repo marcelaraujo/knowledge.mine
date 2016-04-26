@@ -12,6 +12,11 @@
 
 * [Sqlectron](https://sqlectron.github.io/) - One single DB client for any relational DB (initial support MySql and PostgreSQL)
 
+* [SQLiteStudio](http://sqlitestudio.pl/) - portable sqlite db manager
+
+* [DB patterns](http://dbpatterns.com/) - is a service that allows you to create, share, explore database models on the web
+
+
 ## Informações Gerais
 
 * [Try SQL | Code School](http://campus.codeschool.com/courses/try-sql) - Learn basic database manipulation with SQL.
@@ -19,6 +24,8 @@
 * [Intro to SQL: Querying and managing databases | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 
 --
+
+* [A Visual Explanation of SQL Joins | Coding Horror](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) - 2007/10/11
 
 * [Trabalhando com junções de tabelas (JOINs) | iMasters](http://imasters.com.br/banco-de-dados/trabalhando-com-juncoes-de-tabelas-joins/)
 

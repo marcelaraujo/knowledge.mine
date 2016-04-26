@@ -74,6 +74,10 @@
 
 --
 
+* [[YouTube] Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - [loupe tool](http://latentflip.com/loupe/)
+
+--
+
 * [JavaScript.com](https://www.javascript.com/) - Learn JavaScript and stay connected with the latest news created and curated by the JavaScript community.
 
 --
@@ -230,6 +234,8 @@
 
 * [Functional and Object Oriented Programming with Higher Order Functions | Zsolt Nagy](http://www.zsoltnagy.eu/functional-and-object-oriented-programming-with-higher-order-functions/)
 
+* [Entendendo Programação Funcional em JavaScript de uma vez | Medium - by @matheusml](https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
+
 --
 
 * Functional JavaScript | Tech Pro
@@ -331,6 +337,10 @@
 * [Introduction to the Fetch API | SitePoint](http://www.sitepoint.com/introduction-to-the-fetch-api/) - 2015/07/02
 
 * [Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+* [Adeus jQuery.ajax. Olá Fetch API. | VivaReal Engenharia](http://engenharia.vivareal.com.br/adeus-jquery-ajax-ola-fetch-api/)
+
+* [Fetch API e o JavaScript | BrazilJS](https://braziljs.org/blog/fetch-api-e-o-javascript/) - 2016/04/10
 
 
 ### OOP
@@ -491,6 +501,12 @@
 
 ### Dicas
 
+* [Learning to Use Google Analytics More Effectively at CodePen | CSS-Tricks](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/)
+
+* [[YouTube] CSS-Tricks Screencast #146: Getting More from Analytics](https://www.youtube.com/watch?v=jSHqlFkJiBI) - 2016/03/07
+
+--
+
 * [[GitHub] loverajoel / jstips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
 
 * [JS Nice](http://jsnice.org/) - statistical renaming, type inference and deobfuscation
@@ -552,8 +568,6 @@
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
 
 * [An interesting kind of JavaScript memory leak | Meteor Blog](http://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
-
-* [parseUri - Split URLs in JavaScript](http://stevenlevithan.com/demo/parseuri/js/)
 
 * [Native equivalents of jQuery functions | Lee Brimelow](http://www.leebrimelow.com/native-methods-jquery/)
 
@@ -729,6 +743,10 @@
 
   * [[GitHub] cht8687 / You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively
 
+  * [You Might Not Need Underscore | Reindex](https://www.reindex.io/blog/you-might-not-need-underscore/)
+
+    * [Lodash ou Underscore? Talvez, nenhum! | Medium by @oieduardorabelo](https://medium.com/@oieduardorabelo/lodash-ou-underscore-talvez-nenhum-4d1534775a2d)
+
 
 * [[GitHub] elclanrs / essential.js](https://github.com/elclanrs/essential.js) - Functional JavaScript "the right way"
 
@@ -743,6 +761,8 @@
 * [[Speaker Deck] Categorizing values: typeof, instanceof and beyond | Axel Rauschmayer](https://speakerdeck.com/rauschma/categorizing-values-typeof-instanceof-and-beyond) - You have probably heard of two common ways of categorizing values in JavaScript: typeof and instanceof. In this talk, we first review the basics of this kind of categorization and then move on to quirks and advanced topics: primitive values versus objects; typeof and instanceof (and their quirks); the internal property [[Class]]; the odd nature of the prototypes of built-in constructors; and more.
 
 * [Get Most Out of JavaScript Data Structures | JSter Javascript Catalog](http://jster.net/blog/javascript-data-structures)
+
+* [Sorting Algorithms in JavaScript | Ben's Blog](http://blog.benoitvallon.com/category/sorting-algorithms-in-javascript/)
 
 * [Sorted Maps in JavaScript | JSter Javascript Catalog](http://jster.net/blog/sorted-maps-in-javascript)
 
@@ -938,6 +958,8 @@
 
 --
 
+* [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015 | Auth0](https://auth0.com/blog/2016/03/15/javascript-module-systems-showdown/) - 2016/03/15
+
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
 * [[GitHub] wilmoore / frontend-packagers](https://github.com/wilmoore/frontend-packagers) - Front-End Package Manager Comparison
@@ -977,6 +999,8 @@
 
 * [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
+* [[GitHub] topheman / webpack-babel-starter](https://github.com/topheman/webpack-babel-starter) - Webpack / Babel starter kit with full development & build workflow
+
 --
 
 * [The ultimate webpack setup | christianalfoni](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup) - 2015/04/19
@@ -986,6 +1010,10 @@
 * [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
 
   * [[GitHub] ModusCreateOrg / budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - Budgeting - React + Redux + Webpack 2 (tree shaking) Sample App
+
+* [Webpack FTW!!!! | k94n](https://k94n.com/webpack-ftw) - 2016/03/14
+
+  * [[Speaker Dev] Webpack FTW](https://speakerdeck.com/k9ordon/webpack-ftw)
 
 --
 
@@ -1170,6 +1198,8 @@
 
 * [[GitHub] arasatasaygin / is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 
+* [[GitHub] dleitee / strman](https://github.com/dleitee/strman) - A Javascript string manipulation library without npm dependences
+
 * [[GitHub] RadLikeWhoa / helpers.js](https://github.com/RadLikeWhoa/helpers.js) - Small JavaScript functions for common use cases.
 
 * [[GitHub] dankogai / js-combinatorics](https://github.com/dankogai/js-combinatorics) - power set, combination, and permutation in JavaScript
@@ -1241,6 +1271,12 @@
 * [[GitHub] medialize / URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 
 * [[GitHub] loadfive / Knwl.js](https://github.com/loadfive/knwl.js) - Scan through text for data that may be of interest
+
+--
+
+* [parseUri - Split URLs in JavaScript](http://blog.stevenlevithan.com/archives/parseuri)
+
+* [[GitHub] QubitProducts / urlite](https://github.com/QubitProducts/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
 
 --
 
@@ -1406,6 +1442,8 @@
 
 * [Emulators written in JavaScript | Frederic Cambus](http://www.cambus.net/emulators-written-in-javascript/)
 
+  * [[GitHub] fcambus / jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
+
 * [PCjs : IBM PC XT (Model 5160) running Windows v1.01](http://jsmachines.net/demos/pc/cga-win101/xt-cga-win101.xml)
 
 * [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
@@ -1460,13 +1498,19 @@
 
   * [[GitHub] DefinitelyTyped / tsd](https://github.com/DefinitelyTyped/tsd) - TypeScript Definition manager for DefinitelyTyped
 
+  * [[GitHub] DanWahlin / TypeScriptDemos](https://github.com/DanWahlin/TypeScriptDemos) - A set of TypeScript demos showing various features of the language
+
   * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 
   * [The Rise of TypeScript? | Telerik Developer Network](http://developer.telerik.com/featured/the-rise-of-typescript/)
 
   * [Getting Started with TypeScript | Treehouse Blog](http://blog.teamtreehouse.com/getting-started-typescript)
 
+  * [The Case for TypeScript | InfoQ](http://www.infoq.com/presentations/tpescript-language-tools) - 2016/04/17
+
   * [[GitHub] Microsoft / TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
+
+  * [When should I use TypeScript? | Medium by @alexewerlof](https://medium.com/@alexewerlof/when-should-i-use-typescript-311cb5fe801b)
 
 * [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
 
@@ -1714,6 +1758,8 @@
 * [CSS Prettifier Bookmarklet](https://github.com/addyosmani/cssprettifier-bookmarklet) - Um bookmarklet para unminify seu CSS no navegador
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
+
+* [Evaluate and validate XPath/CSS selectors in Chrome Developer Tools | Yi Zeng](http://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/) - 2014/03/23
 
 --
 
@@ -2014,6 +2060,8 @@
 
   * [[GitHub] ccoenraets / intro-to-es6](https://github.com/ccoenraets/intro-to-es6)
 
+* [O Guia do ES6: TUDO que você precisa saber |  Medium by @matheusml](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
@@ -2052,6 +2100,8 @@
 
 * [Arrow This | getiblog](http://blog.getify.com/arrow-this/)
 
+* [ES6: arrow functions em 5 minutos | Raphael Fabeni](http://www.raphaelfabeni.com.br/es6-arrow-functions/) - 2016/01/12
+
 * [Mastering ES6 higher-order functions for Arrays | airpair](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
 
 * [Iterables and iterators in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-iteration.html)
@@ -2077,6 +2127,8 @@
   * [ES6 Symbols in Depth | ponyfoo](https://ponyfoo.com/articles/es6-symbols-in-depth)
 
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
+
+* [Constructive destructuring | krasimirtsonev.com](http://krasimirtsonev.com/blog/article/constructive-destructuring-es6-assignment)
 
 --
 

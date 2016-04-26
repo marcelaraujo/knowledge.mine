@@ -14,6 +14,7 @@
 * [Dicas](#dicas)
   * [Workflow](#workflow)
   * [Merge](#merge)
+    * [Squash commits](#squash-commits)
   * [SVN para GIT](#svn-para-git)
     * [Problema conhecido](#problema-conhecido)
   * [git submodule](#git-submodule)
@@ -111,6 +112,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
   * [[YouTube] GitHub Guides](https://www.youtube.com/githubguides)
 
 * [[GitHub] tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+
+* [Git Commands and Best Practices Cheat Sheet | zeroturnaround.com](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
 
 * [Git Tutorials - become a git guru | Atlassian](https://www.atlassian.com/git/tutorials/)
 
@@ -361,10 +364,6 @@ git clean -fd
 
 * [More Git and GitHub Secrets | Zach Holman](http://zachholman.com/talk/more-git-and-github-secrets/)
 
-* [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
-
-* [git merge --squash | 365git](http://365git.tumblr.com/post/4364212086/git-merge-squash)
-
 * [Please, use git pull --rebase](https://coderwall.com/p/7aymfa)
 
 * [[GitHub] visionmedia / git-extras](https://github.com/visionmedia/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more (for Mac/Unix)
@@ -372,6 +371,43 @@ git clean -fd
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
 * [glog - a git log alias for a decent view of your repo : by Jed Schneider | Coder Wall](https://coderwall.com/p/syqplg)
+
+
+#### Squash commits
+
+* [Squash your commits | GitHub Blog](https://github.com/blog/2141-squash-your-commits) - 2016/04/01
+
+* [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
+
+* [git merge --squash | 365git](http://365git.tumblr.com/post/4364212086/git-merge-squash)
+
+--
+
+* Manual steps
+
+```sh
+git checkout target/branch
+
+git checkout -b merge/branch
+
+git merge --squash feature/branch
+
+git add .
+
+git commit -m $'squash feature/branch commits\ncloses #{pull request number}'
+
+git checkout target/branch
+
+git merge merge/branch
+
+git push origin target/branch
+
+git branch -D merge/branch
+
+git push origin :feature/branch
+
+git branch -D feature/branch
+```
 
 
 ### SVN para GIT
@@ -568,6 +604,12 @@ git clean -fd
 
 
 ### Dicas: GitHub
+
+* [[GitHub] dbader / readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
+
+* [[GitHub] gist-run / gist-run](https://github.com/gist-run/gist-run) - Bring your Gists to life with [GistRun](https://gist.run/)
+
+--
 
 * [Automated Deployments with GitHub Webhooks | Toptal](http://www.toptal.com/devops/deploy-web-applications-automatically-using-github-webhooks)
 

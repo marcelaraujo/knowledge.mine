@@ -81,6 +81,8 @@
 
 * [Call to Idea - Get inspired!](http://calltoidea.com/)
 
+* [Payment Page Inspiration Muzli - Design Inspiration | Medium ](https://medium.com/muzli-design-inspiration/payment-page-inspiration-4b200b33d213)
+
 --
 
 * [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
@@ -88,6 +90,8 @@
 --
 
 * [Google Design](http://www.google.com/design/)
+
+  * [Resizer - Google Design](http://design.google.com/resizer/)
 
   * [Material Design](http://www.google.com/design/spec/material-design/)
 
@@ -104,6 +108,8 @@
   * [Material Design for Bootstrap](http://mdbootstrap.com/) - Powerful and free Material Design UI KIT
 
   * [Material Design, Daily | MaterialUp](http://www.materialup.com/)
+
+  * [Material Design Colors](http://www.materialui.co/colors)
 
 --
 

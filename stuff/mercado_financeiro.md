@@ -20,6 +20,7 @@
 * [APIs](#apis)
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
+* [Imposto de Renda](#imposto-de-renda)
 
 <!-- toc stop -->
 
@@ -29,6 +30,8 @@
 * [Trade ao Vivo](http://www.tradeaovivo.com.br/)
 
 --
+
+* [Economia e finanças | Khan Academy](https://pt.khanacademy.org/economics-finance-domain/) - recursos economia e finanças gratuitos da Khan Academy. Assista a vídeos, leia artigos e expanda seu conhecimento em qualquer tópico economia e finanças.
 
 * [Educação Financeira | Minhas Economias](http://www.minhaseconomias.com.br/educacao-financeira)
 
@@ -111,11 +114,15 @@
 
 --
 
+* [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
+
+* [[YouTube] How The Stock Exchange Works (For Dummies) | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=F3QpgXBtDeo) - 2013/11/28
+
 * [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
 
 * [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
 
-* [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
+* [[YouTube] Banking Explained – Money and Credit | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=fTTGALaRZoc) - 2015/03/12
 
 
 ## Informações úteis sobre investimentos
@@ -151,6 +158,8 @@
 ### Títulos do Governo
 
 * [Rentabilidade do Tesouro Direto](http://www.tesouro.fazenda.gov.br/tesouro-direto-rentabilidade-acumulada)
+
+* [Tesouro Direto - Invistir com Rentabiliade: O Guia Completo | Eu Quero Investir](http://www.euqueroinvestir.com/tesouro-direto-investir-rentabilidade/) - Aprenda a Investir nos Títulos do Tesouro: LFT, LTN, NTN B, NTN F. Entenda Títulos Pré-Fixados e Pós FIxados.
 
 * [[YouTube] Títulos do Governo](https://www.youtube.com/watch?v=i1ics1_um0A)
 
@@ -266,6 +275,8 @@
 
 * [Rico com vc](http://www.rico.com.vc/)
 
+* [Easynvest](https://www.easynvest.com.br/)
+
 
 ## Simuladores
 
@@ -314,3 +325,10 @@
 * [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
+
+
+## Imposto de Renda
+
+* [Guia IRPF 2016 de EXAME.com explica como declarar o Imposto de Renda](http://exame.abril.com.br/seu-dinheiro/ferramentas/guia-do-imposto-de-renda/)
+
+* [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)

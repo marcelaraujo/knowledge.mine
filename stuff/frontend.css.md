@@ -118,7 +118,11 @@
 
 --
 
+* [How Letterspacing Can Make All Caps Easier to Read | UX Movement](http://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/) - (2016/04/19) How Letterspacing Can Make All Caps Easier to Read
+
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
+
+* [Glyphs | CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/) - Special characters codes
 
 --
 
@@ -160,6 +164,8 @@
 * [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
 
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
+
+* [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
 --
 

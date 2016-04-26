@@ -120,6 +120,8 @@
 
 * [Angular 1.5 is close - here's the interesting parts | codelord.net](http://www.codelord.net/2015/12/10/angular-1-dot-5-is-close-heres-the-interesting-parts/) - 2015/12/10
 
+* [Angular 1.5 new component lifecycle hooks | codelord.net](http://www.codelord.net/2016/04/14/angular-1-dot-5-new-component-lifecycle-hooks/) - 2016/04/14
+
 
 ### Angular.js 2.0
 
@@ -169,6 +171,10 @@
 
 --
 
+* [Six months of dev, we launched project on top of Angular 2 | m12.io](http://m12.io/blog/we-launched-angular-2-project)
+
+--
+
 * [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
 
 * [Creating Container Components, Part 2: Angular 1.3 Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-container-components-part-2-angular-1-directives)
@@ -184,6 +190,12 @@
 --
 
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between | Auth0](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/) - 2015/05/14
+
+* [Angular 2 authentication with Auth0 and Node.js | Todd Motto](https://toddmotto.com/angular-2-authentication) - 2016/04/19
+
+--
+
+* [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
 
 --
 
@@ -207,6 +219,10 @@
 
     * [The State of TypeScript Packages | AngularClass](https://angularclass.com/the-state-of-typescript-packages/) - 2015/11/24
 
+  * [Crafting an Angular 2 application using auto-generated APIs | Dream Factory](http://blog.dreamfactory.com/crafting-an-angular-2-application-using-auto-generated-apis) - (2016/03/10) The new Angular 2 address book app is a great way to get started with Angular 2 and learn how easy it is to call DreamFactory’s REST API. In this post, I'll go over some important things to know about the Angular 2 example app.
+
+    * [[GitHub] dreamfactorysoftware / angular2-sdk](https://github.com/dreamfactorysoftware/angular2-sdk) - An address book app for Angular 2 showing user registration, user login, and CRUD
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
@@ -227,6 +243,8 @@
 
 --
 
+* [[GitHub] angular / angular2-seed](https://github.com/angular/angular2-seed)
+
 * [[GitHub] rafaelfragosom / angular2-typescript](https://github.com/rafaelfragosom/angular2-typescript) - Angular 2 and TypeScript Initial Project
 
 * [[GitHub] johnpapa / angular2quickstart](https://github.com/johnpapa/angular2quickstart)
@@ -237,11 +255,15 @@
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
 
+* [[GitHub] thoughtram / angular2-change-detection-demos](https://github.com/thoughtram/angular2-change-detection-demos) - Demos of our "Angular 2 Change Detection Explained" [talk](http://pascalprecht.github.io/slides/angular-2-change-detection-explained/)
+
 * [[GitHub] angular-class / angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services), TypeScript, and Webpack by AngularClass
 
 * [[GitHub] rogerpadilla / angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
 
 * [[GitHub] johnlindquist / ng-hackathon-starter](https://github.com/johnlindquist/ng-hackathon-starter) - An Angular 2 starter project for the ng-hackathon [SystemJS, TypeScript, Angular 2]
+
+* [[GitHub] amcdnl / angular2-demo](https://github.com/amcdnl/angular2-demo) - Angular2 + SASS + TypeScript + SystemJS + NPM Builds
 
 
 ### Estatísticas
@@ -382,6 +404,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS – Presentation | Camilo Lopes](http://blog.camilolopes.com.br/angularjs-presentation/)
 
 * [[SlideShare] Beginner workshop to angularjs presentation at Google](http://www.slideshare.net/therealauser/beginner-workshop-to-angularjs-presentation-at-google)
+
+* [AngularJS for complete beginners | Coding is Love](https://codingislove.com/angularjs-for-complete-beginners/) - 2016/02/24
 
 --
 
@@ -606,6 +630,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[YouTube Playlist] Tudo sobre AngularJS](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) - Rodrigo Branas <!-- ._ -->
 
 * [[YouTube Playlist] AngularJS para Zumbis](https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM) - Matheus Lima
+
+* [How to Consume Laravel API with AngularJS | SitePoint](http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/) - 2016/02/19
 
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series
@@ -1259,6 +1285,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] basti1302 / angular-browserify](https://github.com/basti1302/angular-browserify) - Example/seed project for AngularJS with Browserify
 
+* [Environment Configuration with Angular.js, ES2015 / ES6 & Browserify | Thoughts On Javascript and Development](http://orizens.com/wp/topics/environment-configuration-with-angular-js-es2015-es6-browserify/) - 2016/03/25
+
+  * [[GitHub] orizens / echoes](https://github.com/orizens/echoes) - Echoes is a media player based on youtube which provides a great user experience (no ads!). Overall, it's a web application that is based on angular.js & bootstrap
+
 --
 
 * [Simple Blog Application with AngularJS and Play Framework | Toptal](http://www.toptal.com/java/building-modern-web-applications-with-angularjs-and-play-framework)
@@ -1278,6 +1308,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Home Automation with AngularJS and node.js on a Raspberry Pi | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
 
 * [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch.io](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) - 2015/09/28
+
+* [Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite | Clube dos Geeks](http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite) - 2016/03/18
+
+  * [[GitHub] ClubeDosGeeksCoding / nwjs-angularjs-sqlite](https://github.com/ClubeDosGeeksCoding/nwjs-angularjs-sqlite) - Aplicação exemplo com AngularJS, NwJS, SQLite e Bootstrap
 
 
 ### Google
@@ -1408,6 +1442,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [How The $destroy Event Affects The Scope Tree In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2883-how-the-destroy-event-affects-the-scope-tree-in-angularjs.htm) - 2015/08/05
 
+* [How to create giant memory leaks in Angular](http://makandracards.com/makandra/31289-how-to-create-giant-memory-leaks-in-angularjs) - 2016/02/29
+
 --
 
 * [AngularJS: "Controller as" or "$scope"? | Code Tunnel](http://codetunnel.com/angularjs-controller-as-or-scope/)
@@ -1442,6 +1478,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 ### Autenticação
 
 * [[GitHub] auth0 / auth0-angular](https://github.com/auth0/auth0-angular) - This AngularJS module will help you implement client-side and server-side (API) authentication. You can use it together with [Auth0](https://auth0.com/) to add username/password authentication, support for enterprise identity like Active Directory or SAML and also for social identities like Google, Facebook or Salesforce among others to your web, API and mobile native apps.
+
+* [[GitHub] jackrabbitsgroup / angular-facebook-auth](https://github.com/jackrabbitsgroup/angular-facebook-auth) - AngularJS Facebook Login service
 
 --
 
@@ -1711,7 +1749,7 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
-* [Sobre Diretivas e Como usar corretamente plugins jQuery com AngularJS | pedronauck.com](http://pedronauck.com/angularjs/sobre-diretivas-e-como-usar-corretamente-plugins-jquery-com-angularjs)
+* [Sobre Diretivas e como usar corretamente plugins jQuery com AngularJS | Medium by @fabyoguimaraes](https://medium.com/@fabyoguimaraes/sobre-diretivas-e-como-usar-corretamente-plugins-jquery-com-angularjs-8bcc5a07e371#.e5h0ce3ki)
 
 --
 
@@ -2400,6 +2438,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
   * [Building a Web Based File Browser with jsTree, Angularjs and Expressjs | The Jackal of Javascript](http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs/)
 
 * [[GitHub] marmelab / ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
+
+* [[GitHub] akveo / blur-admin](https://github.com/akveo/blur-admin) - Free Angular Bootstrap Admin Dashboard Template
 
 --
 

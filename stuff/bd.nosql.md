@@ -93,6 +93,10 @@
 
 * [How to Install and Use Redis | DigitalOcean](https://www.digitalocean.com/community/articles/how-to-install-and-use-redis)
 
+--
+
+* [[GitHub] luin / medis](https://github.com/luin/medis) - is a beautiful, easy-to-use Mac database management application for Redis
+
 
 ##### Caso de Uso
 
@@ -340,6 +344,8 @@
 
 --
 
+* [7 Simple Speed Solutions for MongoDB | SitePoint](http://www.sitepoint.com/7-simple-speed-solutions-mongodb/) - 2016/02/17
+
 * [10 tips to improve your MongoDB security | MongoDirector](http://blog.mongodirector.com/10-tips-to-improve-your-mongodb-security/)
 
 --
@@ -368,6 +374,10 @@
   * [[GitHub] bobthecow / genghis](https://github.com/bobthecow/genghis)
 
 * [Robomongo](http://www.robomongo.org/) - Shell-centric cross-platform MongoDB management tool
+
+  * [[GitHub] paralect / robomongo](https://github.com/paralect/robomongo)
+
+* [[GitHub] officert / mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
 
 
 #### Palestras

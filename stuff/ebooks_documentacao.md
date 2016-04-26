@@ -295,6 +295,10 @@
 
 --
 
+* [10 podcasts úteis para quem tem pouco tempo para estudar | Exame](http://exame.abril.com.br/carreira/noticias/10-podcasts-uteis-para-quem-tem-pouco-tempo-para-estudar)
+
+--
+
 * [Tecnologia em Sistemas de Computação | Fundação CECIERJ/Consórcio CEDERJ](http://www.cederj.edu.br/videoaulas/) - videoaulas do curso
 
 
@@ -325,6 +329,8 @@
 * [Você Aprende Agora](http://www.voceaprendeagora.com/) - É um curso de inglês online, com Felipe Dib onde você aprenda rápido e usa o inglês a seu favor.
 
 --
+
+* [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
 
 * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 

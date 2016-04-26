@@ -3,12 +3,14 @@
 <!-- toc -->
 
 * [Geral](#geral)
+* [Trabalho no exterior](#trabalho-no-exterior)
 * [Trabalho remoto](#trabalho-remoto)
 * [Time Traking](#time-traking)
 * [Conceitos](#conceitos)
   * [Pomodoro](#pomodoro)
   * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
+  * [Minimum Loveable Product](#minimum-loveable-product)
   * [Minimum Viable Products](#minimum-viable-products)
   * [DevOps](#devops)
   * [Gamification](#gamification)
@@ -24,7 +26,6 @@
   * [iMasters](#imasters)
 
 <!-- toc stop -->
-
 
 ## Geral
 
@@ -93,17 +94,18 @@
   * [Alternativa gratuita ao JRebel | Boaglio.com](http://www.boaglio.com/index.php/2015/01/22/alternativa-gratuita-ao-jrebel/)
 
 
+## Trabalho no exterior
+
+* [Programando no exterior | Nerdcast - JovemNerd](https://jovemnerd.com.br/nerdcast/nerdtech-02-programando-no-exterior/) - 2016/04/01
+
+* [#013 – Trabalhando no Exterior (Parte 1 de 2) | PODebug](http://www.podebug.com/2016/01/013-trabalhando-no-exterior-parte-1-de-2/) - 2016/01/20
+
+* [#014 – Trabalhando no Exterior (Parte 2 de 2) | PODebug](http://www.podebug.com/2016/01/014-trabalhando-no-exterior-parte-2-de-2/) - 2016/01/27
+
+
 ## Trabalho remoto
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
-
---
-
-* [Carnê Leão | Receita Federal do Brasil](http://www.receita.fazenda.gov.br/PessoaFisica/Carneleao/Default.htm) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
-
-> efetuar lançamento do tipo: `3001` - Rendimento recebido do exterior relativo a trabalho não assalariado
-
-> [VET](http://www.bcb.gov.br/?VETFAQ) - valor efetivo total
 
 --
 
@@ -116,6 +118,28 @@
 * [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
 * [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
+
+--
+
+* Invoice
+
+  * [Harvest](https://www.getharvest.com/) - Simple Online Time Tracking Software
+
+  * [Free Invoice Generator by Invoiced](https://invoice-generator.com/)
+
+--
+
+* [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
+
+  * [Transferir dinheiro do Brasil para o exterior: encontramos a melhor forma! | Pequenos Monstros](http://www.pequenosmonstros.com/2016/04/transferir-dinheiro-do-brasil-para-o-exterior/)
+
+--
+
+  * [Carnê Leão | Receita Federal do Brasil](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/2016/programa-carne-leao-2016) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
+
+  > efetuar lançamento do tipo: `3001` - Rendimento recebido do exterior relativo a trabalho não assalariado
+
+  > [VET](http://www.bcb.gov.br/?VETFAQ) - valor efetivo total
 
 
 ## Time Traking
@@ -181,6 +205,12 @@
 
 --
 
+* [[YouTube] Don't Create Objects That End With -ER](https://www.youtube.com/watch?v=WpP4rIhh5e4) - 2015/08/05
+
+  * [Don't Create Objects That End With -ER | yegor256](http://www.yegor256.com/2015/03/09/objects-end-with-er.html) - 2015/03/09
+
+--
+
 * [Multi Sensory Application](https://multisensory.github.io/) - Principles of Multi-Sensory Applications. Your CRUDy Software Needs a New Brain.
 
 
@@ -223,6 +253,11 @@
 * [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores | iMasters](http://imasters.com.br/design-ux/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/)
 
 * [Pattern Lab - Build Atomic Design Systems](http://patternlab.io/)
+
+
+### Minimum Loveable Product
+
+* [So long MVP. Hello Minimum Loveable Product | Medium by The Happy Startup School](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)
 
 
 ### Minimum Viable Products

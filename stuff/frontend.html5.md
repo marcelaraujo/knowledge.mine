@@ -161,6 +161,8 @@
 
 * [Next Generation Web Layout: National Geographic Forest Giant | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/)
 
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
+
 
 ### Dicas
 
@@ -282,6 +284,18 @@
 * [[codepen.io] Spirograph in HTML 5](http://codepen.io/cwolves/pen/gykbc)
 
 --
+
+* Service Workers
+
+  * [[GitHub] delapuente / service-workers-101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API
+
+  * [ServiceWorker: A revolução da plataforma Web | BrasilJS](https://braziljs.org/blog/service-worker-a-revolucao-da-plataforma-web/) - 2016/04/04
+
+  * [Making a Simple Site Work Offline with ServiceWorker | ponyfoo](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
+
+  * [Asset caching with service worker | Medium by @philipp.schaechtele](https://medium.com/@philipp.schaechtele/asset-caching-with-service-worker-c40dcda43842)
+
+  * [Service Workers replacing AppCache: a sledgehammer to crack a nut | Medium by @firt](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b)
 
 * Web Workers
 
@@ -668,6 +682,8 @@
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
   * [[GitHub] MrRio / jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW : [gh-page](https://mrrio.github.io/jsPDF/)
+
+  * [Generating PDFs from Web Pages on the Fly with jsPDF | SitePoint]() - 2016/02/16
 
 * [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
 

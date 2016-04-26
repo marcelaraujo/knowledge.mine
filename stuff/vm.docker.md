@@ -49,6 +49,8 @@
 
 * [[GitHub] wsargent / docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 
+* [[GitHub] veggiemonk / awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+
 
 ### Informações
 
@@ -110,6 +112,14 @@
 * [Docker - Beginner's tutorial | talPor Solutions Blog](https://blog.talpor.com/2015/01/docker-beginners-tutorial/)
 
 * [Getting Started with Docker: Simplifying Devops | Toptal](http://www.toptal.com/devops/getting-started-with-docker-simplifying-devops)
+
+* [Docker's - Beginner Guide | hack.guides()](http://tutorials.pluralsight.com/devops/docker-s-beginner-guide)
+
+--
+
+* [[YouTube] Docker em 20 minutos](https://www.youtube.com/watch?v=caGS9EztYlc) - 2016/02/25
+
+* [[YouTube] Docker do básico à orquestração de containers - Wellington Silva | Laravel Brasil](https://www.youtube.com/watch?v=mR2px-mKjd0) - 2015/05/12
 
 --
 
@@ -231,6 +241,8 @@
 
 * [Como ter sucesso executando o Docker em produção | InfoQ Br](http://www.infoq.com/br/news/2015/12/docker-producao) - 2015/12/09
 
+* [Deploy ágil com Docker | iMasters](http://imasters.com.br/desenvolvimento/deploy-agil-com-docker/) - 2016/03/07
+
 --
 
 * [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
@@ -283,6 +295,8 @@
 
 * [Why and How to Use Docker for Development | Iron.io Blog — Medium](https://medium.com/iron-io-blog/why-and-how-to-use-docker-for-development-a156c1de3b24)
 
+* [Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop | Docker Blog](https://blog.docker.com/2016/03/docker-for-mac-windows-beta/) - 2016/03/24
+
 --
 
 * A Docker Dev Environment in 24 Hours! | salesforceIQ Blog - [Part 1](https://engineering.salesforceiq.com/2013/10/31/a-docker-dev-environment-in-24-hours-part-1-of-2.html) | [Part 2](https://engineering.salesforceiq.com/2013/11/05/a-docker-dev-environment-in-24-hours-part-2-of-2.html)
@@ -318,6 +332,12 @@
 --
 
 * [Creating a Docker Container to run PHP, NGINX and Hip Hop VM (HHVM) | SEED Official Blog](http://blog.seedtech.io/post/91801062414/creating-a-docker-container-to-run-php-nginx-and-hip)
+
+* [Criando um Lamp com seu Docker | iMasters](http://imasters.com.br/desenvolvimento/criando-um-lamp-com-seu-docker/) - 2016/03/09
+
+* [[YouTube] Configurando ambiente PHP no Windows com Docker](https://www.youtube.com/watch?v=xVHa4eLmork) - 2016/02/26
+
+* [How to scale Laravel horizontally with Docker | Medium by @andrewmclagan](https://medium.com/@andrewmclagan/you-thought-laravel-homestead-was-easy-say-hello-to-docker-2c0639a0501)
 
 --
 
@@ -438,6 +458,10 @@
 
 * [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker | Rackspace Developer Center](http://developer.rackspace.com/blog/move-fast-and-dont-break-things-testing-with-jenkins-ansible-and-docker.html)
 
+* [Creating containerized build environments with the Jenkins Pipeline plugin and Docker. Well, almost. |  Damnhandy](http://damnhandy.com/2016/03/06/creating-containerized-build-environments-with-the-jenkins-pipeline-plugin-and-docker-well-almost/) - 2016/03/06
+
+* [Automated End-To-End Testing with Protractor, Docker and Jenkins | @Smaato](http://blog.smaato.com/automated-end-to-end-testing-with-protractor-docker-jenkins) - 2016/03/09
+
 --
 
 * [[GitHub] SeleniumHQ / docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server
@@ -554,11 +578,15 @@
 
 --
 
+* [How to Dockerize your Node application | Luca Mezzalira](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
+
 * [Getting Started with Docker for the Node.js Developer | AirPair](https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev)
 
 * [Node with Docker - continuous integration and delivery | Michael Herman](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/)
 
 * [Minimal Docker Containers for Node.js | @RisingStack](https://blog.risingstack.com/minimal-docker-containers-for-node-js/) - 2016/02/10
+
+* [How to Dockerize your Node application | Luca Mezzalira](http://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
 
 
 ### Oracle

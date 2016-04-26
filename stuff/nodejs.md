@@ -212,6 +212,12 @@
 
 --
 
+* [You Don't Know Node: Quick Intro to Core Features | webapplog](http://webapplog.com/you-dont-know-node/)
+
+  * [[GitHub] azat-co / you-dont-know-node](https://github.com/azat-co/you-dont-know-node) - You Don't Know Node.js
+
+--
+
 * [Node.js | Underground WebDev](http://udgwebdev.com/nodejs/)
 
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
@@ -376,6 +382,10 @@
 
 --
 
+* [[GitHub] sqren / fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits
+
+--
+
 * [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
 --
@@ -387,6 +397,10 @@
 * [Straw](http://strawjs.com/) - Realtime processing dataflow framework for Node.js
 
   * [[GitHub] simonswain / straw](https://github.com/simonswain/straw)
+
+--
+
+* [[GitHub] VictorQueiroz / regecent](https://github.com/VictorQueiroz/regecent) - Some accents for your Regular Expressions
 
 --
 
@@ -519,6 +533,8 @@
 
   * [Browser-sync, indispensável para desenvolver sites em vários dispositivos | caelum blog](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/) - 2015/06/17
 
+  * [How to Use BrowserSync for Faster Development | Scotch](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
+
 --
 
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions
@@ -591,6 +607,8 @@
 
 * [How to debug Node.js? What is the best way to debug Node.js? | { 100PercentJS }](http://www.100percentjs.com/best-way-debug-node-js/)
 
+* [Debugging with Node | Krasimir Tsonev](http://krasimirtsonev.com/blog/article/debugging-with-node)
+
 --
 
 * [[GitHub] boblauer / mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
@@ -647,6 +665,8 @@
 
 * [[GitHub] rrrene / inchjs](https://github.com/rrrene/inchjs) - A documentation tool for JavaScript/NodeJS
 
+* [[GitHub] yui / yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
+
 
 #### Performance, Proteção e Otimização
 
@@ -672,6 +692,8 @@
   * [JavaScript Code Complexity Visualization | Ariya Hidayat](http://ariya.ofilabs.com/2013/01/javascript-code-complexity-visualization.html)
 
 * [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
+
+* [[GitHub] pmdartus / speedline](https://github.com/pmdartus/speedline) - Calculate the speed index and visual performance metrics from chrome dev tool timeline
 
 
 ### Monitoramento e Logs
@@ -737,6 +759,8 @@
 --
 
 * [[GitHub] punkave / sluggo](https://github.com/punkave/sluggo) - High-speed, unicode-aware, browser-friendly slug generator
+
+* [[GitHub] QubitProducts / urlite](https://github.com/QubitProducts/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
 
 
 ### Encurtador de URLs
@@ -938,6 +962,8 @@
 
   * [[GitHub] andris9 / Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS - easy as cake!
 
+  * [Emails with "View in Browser" link in Node.js | Adam Niedzielski](http://blog.sundaycoding.com/blog/2016/03/03/emails-with-view-in-browser-link-in-node-dot-js/)
+
 * [[GitHub] vdemedes / mailman](https://github.com/vdemedes/mailman) - Send emails in a comfortable way via models
 
 --
@@ -976,6 +1002,8 @@
 
   * [Nodal – GraphQL Playground](http://graphql.nodaljs.com/)
 
+  * [Realtime Doesn’t Belong Everywhere — Build Scalable API Services in Node.js with Nodal | Medium by @keithwhor](https://medium.com/@keithwhor/realtime-doesn-t-belong-everywhere-build-scalable-api-services-in-node-js-with-nodal-10d0adfb66d) - 2016/03/08
+
 * [[GitHub] evantahler / actionhero](https://github.com/evantahler/actionhero) - is a multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 
 --
@@ -991,6 +1019,8 @@
   * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
 
   * [hapi – Building apps and services in Node.js | Frederic Hemberger](https://frederic-hemberger.de/talks/hapi/)
+
+  * [Introduction to Node Servers with Hapi.js - Course by @mikefrey | egghead.io](https://egghead.io/series/introduction-to-node-servers-with-hapi-js)
 
 --
 
@@ -1096,6 +1126,8 @@
   * [Hexo - Node.js blog framework](http://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js
 
   * [Migrando de WordPress para Hexo | William Oliveira](http://woliveiras.com.br/posts/Migrando-de-Wordpress-para-Hexo/)
+
+  * [How to Create a Blog with Hexo On Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - 2016/02/04
 
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
@@ -1405,6 +1437,10 @@
 
 --
 
+* [[GitHub] substack / node-resolve](https://github.com/substack/node-resolve) - Implements the node.js require.resolve() algorithm
+
+--
+
 * [[GitHub] Sendanor / nor-fs](https://github.com/Sendanor/nor-fs) - chainable asynchronous file system library for Node.js
 
 * [[GitHub] vesln / fine](https://github.com/vesln/fine) - Tiny, recursive and synchronous file finder utility
@@ -1448,6 +1484,8 @@
   * [Using Node.js for Static Sites: Jade | StrongLoop](http://strongloop.com/strongblog/using-node-js-for-static-sites-jade/)
 
   * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+
+  * [A Jade Tutorial for Beginners | SitePoint](http://www.sitepoint.com/jade-tutorial-for-beginners/) - 2016/02/17
 
 
 ### Streams
@@ -1627,6 +1665,8 @@
 
 ### process manager
 
+* [[GitHub] flipace / whoport](https://github.com/flipace/whoport) - A simple CLI tool to check if and which PID uses a given port number and optionally kill it.
+
 * [[GitHub] zzarcon / psaux](https://github.com/zzarcon/psaux) - Process status in Node.js as you've always wanted
 
 * [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
@@ -1750,6 +1790,9 @@
 
 * [[GitHub] sindresorhus / awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 
+* [[GitHub] parro-it / canibekikked](https://github.com/parro-it/canibekikked) - Tool to check if any of your NPM repositories name are trademarked
+
+--
 
 * [Fixing npm permissions | NPM Getting Started](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 
@@ -1818,7 +1861,11 @@ $ sudo chown -R `whoami` .npm
 
 * [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
 
+--
+
 * [David, a dependency management tool for Node.js projects](https://david-dm.org)
+
+* [[GitHub] dylang / npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies
 
 --
 
@@ -1879,6 +1926,8 @@ $ sudo chown -R `whoami` .npm
 * [Your first Node.js package | NodeSource Blog](https://nodesource.com/blog/your-first-nodejs-package)
 
 * [How to Create and Publish Your First Node.js Module | Medium by @jdaudier](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+
+* [[YouTube] How to use bundleDependencies (to avoid unpublish blues)](https://www.youtube.com/watch?v=qOGRUfdSiaM)
 
 --
 
@@ -2030,6 +2079,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] simonlast / node-persist](https://github.com/simonlast/node-persist) - Super-easy persistent data structures in Node.js
+
 * [[GitHub] punkave / prettiest](https://github.com/punkave/prettiest) - Improbably easy data storage and locking for command line scripts. Pairs well with shelljs and a nice chianti.
 
 * [[GitHub] philipp-spiess / json-db](https://github.com/philipp-spiess/json-db) - A lightweight database for your node.js app.
@@ -2073,6 +2124,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [How to Dockerize your Node application | Luca Mezzalira](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
+
 * [Dockerizing a Node.js Web Application | Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application)
 
 * [How to create a Docker + Node.js + MongoDB + Varnish environment | Luis Elizondo](http://luiselizondo.net/blogs/luis-elizondo/how-create-docker-nodejs-mongodb-varnish-environment)
@@ -2086,6 +2139,8 @@ $ sudo chown -R `whoami` .npm
 * [Getting Started with Docker for the Node.js Developer | AirPair](https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev)
 
 * [[SlideShare] Microservices with Node and Docker](http://www.slideshare.net/subfuzion/microservices-with-node-and-docker) - 2015/10/14
+
+* [How to Dockerize your Node application | Luca Mezzalira](http://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
 
 --
 
@@ -2227,6 +2282,10 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] jiahaog / nativefier](https://github.com/jiahaog/nativefier) - Wrap any web page natively without even thinking, across Windows, OSX and Linux
 
+* [[GitHub] romannurik / MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - A handy little Mac app that gives you quick access to the standard material design color palette
+
+* [[GitHub] appetizermonster / hain](https://github.com/appetizermonster/hain) - An 'alt+space' launcher for Windows, built with Electron
+
 
 #### Node Webkit
 
@@ -2241,6 +2300,10 @@ $ sudo chown -R `whoami` .npm
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/introduction-to-html5-desktop-apps-with-node-webkit--net-36296)
 
 * [Iniciando com Node Webkit | Beto Muniz](http://betomuniz.com/blog/iniciando-com-node-webkit/)
+
+* [Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite | Clube dos Geeks](http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite) - 2016/03/18
+
+  * [[GitHub] ClubeDosGeeksCoding / nwjs-angularjs-sqlite](https://github.com/ClubeDosGeeksCoding/nwjs-angularjs-sqlite) - Aplicação exemplo com AngularJS, NwJS, SQLite e Bootstrap
 
 --
 

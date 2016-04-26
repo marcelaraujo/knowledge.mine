@@ -209,7 +209,11 @@
 
   * [React.parts](http://react.parts/)  - A catalog of React Native components
 
+--
+
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
+
+* [[GitHub] petehunt / react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 
 --
 
@@ -217,9 +221,13 @@
 
 --
 
+* [Learn React](http://learnreact.com/)
+
 * [React in 7 Minutes - React Video Tutorial #free | @eggheadio](https://egghead.io/lessons/react-react-in-7-minutes)
 
 * [ReactJS For Stupid People | Andrew Ray's Blog](http://blog.andrewray.me/reactjs-for-stupid-people/)
+
+* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) - If you're new to React.js, there's no better place to learn React.js and the React ecosystem than with this React.js fundamentals course
 
 --
 
@@ -264,6 +272,8 @@
 * [[SlideShare] Reconciling ReactJS as a View Layer Replacement (MidwestJS 2014)](http://www.slideshare.net/ZachLendon/reconciling-react-as-a-view-layer-replacement-midwestjs-2014) - 2014/08/15
 
 --
+
+* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
 
 * [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
 
@@ -369,6 +379,10 @@
 
 --
 
+* [Building Chrome Extensions in React+Redux | goguardian](http://blog.goguardian.com/nerds/chrome-extensions-in-react)
+
+--
+
 * [Build A Real-Time Twitter Stream with Node and React.js | Scotch](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 
   * [[GitHub] scotch-io / react-tweets](https://github.com/scotch-io/react-tweets)
@@ -380,6 +394,10 @@
 * [Trader Desktop with React and the Lightning Design System on Heroku | Christophe Coenraets](http://coenraets.org/blog/2015/09/trader-desktop-with-react-and-the-lightning-design-system-on-heroku/) - 2015/09/03
 
   * [[GitHub] ccoenraets / lightning-trader](https://github.com/ccoenraets/lightning-trader) - Sample trader desktop app built with React and the Lightning Design System
+
+* [Build a Peer-to-Peer File Sharing Component in React & PeerJS | SitePoint](http://www.sitepoint.com/file-sharing-component-react/) - 2016/04/11
+
+  * [[GitHub] sitepoint-editors / react-filesharer](https://github.com/sitepoint-editors/react-filesharer) - A React peer-to-peer file sharing component, using PeerJS
 
 
 #### React Native
@@ -393,6 +411,8 @@
 * [React Native Fundamentals | Video Tutorial Series - @eggheadio](https://egghead.io/series/react-native-fundamentals)
 
 * [How Facebook Focuses on the Most Important Element of an App  | Airbnb Engineering](http://nerds.airbnb.com/facebook-react-native/) - 2015/08/31
+
+* [Why You Should Consider React Native For Your Mobile App | Smashing Magazine](https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/) - 2016/04/07
 
 
 ### Template Engine
@@ -620,6 +640,10 @@
 * [Rotate the World in D3.js](http://www.jasondavies.com/maps/rotate/)
 
 * [D3.js Geo fun | maori.geek](http://maori.geek.nz/post/d3_js_geo_fun)
+
+--
+
+* [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics powered by d3
 
 
 ##### bl.ocks.org

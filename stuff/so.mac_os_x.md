@@ -46,6 +46,10 @@
 
 --
 
+* [AppCleaner | freemacsoft](http://freemacsoft.net/appcleaner/) - is a small application which allows you to thoroughly uninstall unwanted apps.
+
+--
+
 * Move windows
 
   * [Moom](http://manytricks.com/moom/) - Do you spend a lot of time moving and zooming windows, so you can better see and work with all the content on your Mac? Instead of doing that work yourself, let Moom handle the task for you. - U$ 10
@@ -92,6 +96,7 @@
 
 * [How to Burn OS X El Capitan to a USB Flash Drive | Lifehacker](http://lifehacker.com/how-to-burn-os-x-el-capitan-to-a-usb-flash-drive-1733425133) - 2015/09/30
 
+  * [PSA: An Expired Certificate Means You'll Need to Remake Any OS X USB Boot Drives | Lifehacker](http://lifehacker.com/psa-an-expired-certificate-means-youll-need-to-remake-1762704972)
 
 ## HDD para SSD
 
@@ -121,6 +126,10 @@
 
 
 ## dotFiles
+
+* [[GitHub] webpro / awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+
+--
 
 * [dotfiles.github.io](http://dotfiles.github.io/)
 
@@ -172,6 +181,8 @@
 
 
 ### Editores de Vídeo
+
+* [How to record screencast videos with Mac OSX | The Next Web](http://thenextweb.com/apple/2011/01/15/how-to-record-quick-easy-screencast-videos-with-mac-osx/)
 
 * [ScreenFlow | Telestream](http://www.telestream.net/screenflow/) - Screen recording and video editing software for creating high-quality software demos, video tutorials, video training, and presentations.
 
